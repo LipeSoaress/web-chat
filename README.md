@@ -1,9 +1,9 @@
-# LChat - Web Chat
+# 💬 LChat - Web Chat
 
-## Descrição
+## 📄 Descrição
 O LChat é uma plataforma de chat inovadora que conecta pessoas em tempo real em um ambiente interativo e seguro. Com uma interface moderna e intuitiva, o site permite a criação de salas de bate-papo temáticas, conversas privadas e grupos de discussão, possibilitando que usuários compartilhem interesses, troquem experiências e estabeleçam conexões autênticas.
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 - Frontend: React, HTML5, CSS3, JavaScript
 
 - Backend: Node.js, Express
@@ -14,7 +14,7 @@ O LChat é uma plataforma de chat inovadora que conecta pessoas em tempo real em
 
 - WebSockets: Para comunicação em tempo real
 
-## Aplicação
+## 📌 Aplicação
 
 Link: https://web-chat-soares.onrender.com/
 
