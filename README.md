@@ -4,11 +4,11 @@
 O LChat é uma plataforma de chat inovadora que conecta pessoas em tempo real em um ambiente interativo e seguro. Com uma interface moderna e intuitiva, o site permite a criação de salas de bate-papo temáticas, conversas privadas e grupos de discussão, possibilitando que usuários compartilhem interesses, troquem experiências e estabeleçam conexões autênticas.
 
 ## 🛠️ Tecnologias Utilizadas
-- Frontend: React, HTML5, CSS3, JavaScript
+- Frontend: HTML5, CSS3, JavaScript
 
-- Backend: Node.js, Express
+- Backend: Node.js, Python
 
-- Banco de Dados: MongoDB (ou escolha preferencial)
+- Banco de Dados: SQLDB (ou escolha preferencial)
 
 - Autenticação: JWT (JSON Web Tokens), OAuth (se necessário)
 
