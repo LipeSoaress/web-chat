@@ -8,9 +8,7 @@ O LChat é uma plataforma de chat inovadora que conecta pessoas em tempo real em
 
 - Backend: Node.js, Python
 
-- Banco de Dados: SQLDB (ou escolha preferencial)
-
-- Autenticação: JWT (JSON Web Tokens), OAuth (se necessário)
+- Banco de Dados: SQLDB
 
 - WebSockets: Para comunicação em tempo real
 
